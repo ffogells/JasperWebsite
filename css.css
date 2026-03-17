@@ -3,7 +3,8 @@ header {
     height: 500px;
     background-image: url("https://i.imgur.com/XLDnkyO.jpeg");
     background-size: cover;
-    border: 10px solid greenyellow;
+    border-bottom: 10px solid greenyellow;
+    border-top: 10px solid greenyellow;
 }
 
 h1 {
